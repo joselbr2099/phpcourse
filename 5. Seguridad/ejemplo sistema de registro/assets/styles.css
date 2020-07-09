@@ -1,0 +1,80 @@
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.imput {
+    margin: auto;
+  width: 30%;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.alert {
+    margin: auto;
+  width: 30%;
+  border-radius: 5px;
+  background-color: red;
+  padding: 20px;
+}
+
+.warning {
+  margin: auto;
+width: 30%;
+border-radius: 5px;
+background-color: #ff9800;
+padding: 20px;
+}
+.danger {
+  margin: auto;
+width: 30%;
+border-radius: 5px;
+background-color: red;
+padding: 20px;
+}
+
+.success{
+  margin: auto;
+width: 30%;
+border-radius: 5px;
+background-color: #4CAF50;
+padding: 20px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.label {
+  color: white;
+  padding: 8px;
+}
+
+.success {background-color: #4CAF50;} /* Green */
+.info {background-color: #2196F3;} /* Blue */
+.warning {background-color: #ff9800;} /* Orange */
+.danger {background-color: #f44336;} /* Red */
+.other {background-color: #e7e7e7; color: black;} /* Gray */
