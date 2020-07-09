@@ -8,6 +8,7 @@ Curso de introduccion a:
     ╚═╝     ╚═╝  ╚═╝╚═╝Jose Luis Blas Ralde
 
 CODIGO
+
  todo el código en php debe estar entre las etiquetas:
 
     <?php
@@ -15,6 +16,7 @@ CODIGO
     ?>
 
  IMPRIMIR EN PANTALLA
+
  Para una impresion en pantalla rapida puede usarse la instrucción "echo", en código:
 
     <?php
@@ -26,6 +28,7 @@ CODIGO
  echo tambien puede usarse para introducir codigo html
 
  EJECUCIÓN
+
  Todo archivo que contenga código php debe tener extension .php y el nombre del archivo no debe contener espacios
  
     -Ejecución en terminal: php <nombre_archivo>.php
@@ -33,7 +36,10 @@ CODIGO
     direcciónes: http://localhost/<nombre_archivo>.php
 
 SERVIDOR WEB DE PHP
+
 Php tiene su propio servidor web, en la terminal escribir:
+
     php -S 0.0.0.0:8080 . 
+    
 esto iniciara el servidor web en la carpeta actual 
 
