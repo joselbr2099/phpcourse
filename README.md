@@ -5,12 +5,12 @@ Curso de introduccion a:
     ██████╔╝███████║██████╔╝
     ██╔═══╝ ██╔══██║██╔═══╝ 
     ██║     ██║  ██║██║     
-    ╚═╝     ╚═╝  ╚═╝╚═╝
+    ╚═╝     ╚═╝  ╚═╝╚═╝Jose Luis Blas Ralde
 
-Este repositorio contiene el codigo que se ve en clases
-estos archivos pueden cambiar con el tiempo puede probarse 
+Este repositorio contiene el codigo que se ve en clases,
+estos archivos pueden cambiar con el tiempo, puede probarse 
 el codigo usando el IDE online: https://repl.it/@joseluis37/phpcourse
-como auda se usara el manual de php que se puede descargar de aqui:https://www.php.net/download-docs.php
+como ayuda se usará el manual de php que se puede descargar de aqui:https://www.php.net/download-docs.php
 
 CONTENIDO
 1.	Introducción

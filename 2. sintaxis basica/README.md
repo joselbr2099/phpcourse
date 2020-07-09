@@ -5,7 +5,7 @@ Curso de introduccion a:
     ██████╔╝███████║██████╔╝
     ██╔═══╝ ██╔══██║██╔═══╝ 
     ██║     ██║  ██║██║     
-    ╚═╝     ╚═╝  ╚═╝╚═╝
+    ╚═╝     ╚═╝  ╚═╝╚═╝Jose Luis Blas Ralde
 
 CODIGO
  todo el código en php debe estar entre las etiquetas:
