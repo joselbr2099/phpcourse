@@ -1,8 +1,10 @@
 <?php
-$cookie_name = "nombre";
-$cookie_value = "jose";
+//definir una cookie
+$cookie_name = "nombre";  //nombre del cookie
+$cookie_value = "jose";   //el valor del cookie
 setcookie($cookie_name, $cookie_value, time() + (86400 * 30)); //se crea lo cookie y establece la duracion en un dia
 ?>
+
 <html>
 <body>
 

@@ -1,7 +1,7 @@
 <?php
 //setcookie("texto", 5, time() + (86400 * 30),"/");
-setcookie("a", 5,30,"/");
-setcookie("b", 1, time() + (86400 * 30),"/");
+setcookie("a", 5, time() + (86400 * 30),"/");
+setcookie("b", 1, 30,"/");
 ?>
 <html>
 <body>

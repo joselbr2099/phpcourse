@@ -33,8 +33,8 @@ como ayuda se usará el manual de php que se puede descargar de aqui:https://www
             Ejemplo sistema de registro
 
         6	Archivos y directorios
-            6.1	Manejo de Directorios en http	
-            6.2	Manejo de Archivos en http
+            6.1	Manejo de Directorios
+            6.2	Manejo de Archivos
 
         7	Funciones avanzadas en PHP.
             7.1	Expresiones Regulares. 

@@ -28,7 +28,7 @@ echo "<br>Directorio actual: ".$dir."\n";
 if (is_dir($dir)) {  //se verifica que el directorio actual es un directorio
     if ($dh = opendir($dir)) { //se abre el directorio
         while (($file = readdir($dh)) !== false) {  //con read dir obtenemos cada elemento de la carpea
-            echo "<br>nombre archivo: $file : tipo archivo: " . filetype($dir . $file) . "\n";
+            echo "nombre archivo: $file : tipo archivo: " . filetype($dir . $file) . "\n";
         }
         closedir($dh); //se cierra la gestion
     }
