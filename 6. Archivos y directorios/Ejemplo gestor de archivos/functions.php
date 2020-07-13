@@ -13,7 +13,7 @@ if(isset($_POST['editar'])){
 
 if(isset($_POST['borrar'])){ 
  
-    header("Location: ../index.php");
+    header("Location: index.php");
     exit();
 }
 

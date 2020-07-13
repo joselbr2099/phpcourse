@@ -32,7 +32,7 @@ if (!$fp = fopen("prueba.txt", "w")){  //w indica escritura (se sobreescribiran 
     echo "No se ha podido abrir el archivo";
 }else{
     echo "Archivo habierto, escribiendo datos:\n";
-    fwrite($fp,"nuevo texto insertado");           //con esta funcion se escribe en el archivo
+    fwrite($fp,"nuevo texto insertado: ");           //con esta funcion se escribe en el archivo
     fclose($fp); // siempre despues de procesar el archivo
 }
 
