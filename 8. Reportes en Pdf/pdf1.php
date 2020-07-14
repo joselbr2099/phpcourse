@@ -1,6 +1,6 @@
 <?php
 require '../vendor/autoload.php';
-
+//echo "hola0";
 //funcion imprime en pdf
 function printPdf($msg){
     $pdf = new FPDF();   //se crea un objeto en pdf
