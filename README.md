@@ -5,7 +5,8 @@ Curso de introduccion a:
     ██████╔╝███████║██████╔╝
     ██╔═══╝ ██╔══██║██╔═══╝ 
     ██║     ██║  ██║██║     
-    ╚═╝     ╚═╝  ╚═╝╚═╝Jose Luis Blas Ralde
+    ╚═╝     ╚═╝  ╚═╝╚═╝
+    Jose Luis Blas Ralde
 
 Este repositorio contiene el codigo que se ve en clases,
 estos archivos pueden cambiar con el tiempo, puede probarse 
