@@ -12,7 +12,7 @@ CODIGO
  todo el código en php debe estar entre las etiquetas:
 
     <?php
-       //todo el código debe estar aqui y tambien se esta manera se escriben comentarios en php
+       //todo el código debe estar aqui y tambien de esta manera se escriben comentarios en php
     ?>
 
  IMPRIMIR EN PANTALLA
